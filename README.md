@@ -1,1 +1,4 @@
 # Registers
+### Flip flops are capable of storing 1-bit data, but to store more than 1 bit, registers are required. Registers, which are groups of flip flops, are employed to increase storage capacity. With n flip flops, it is possible to store an n-bit word using a single register. Binary data stored in registers can be shifted between flip flops using shift registers. A Shift Register is a group of flip flops used to store multiple bits of data and move the data from one flip flop to another. This shifting of data is accomplished using a clock signal. An n-bit shift register requires n flip flops. Shifting can occur either left or right using a Shift Left Register or Shift Right Register.
+### For further exploration of registers and shift registers and their applications in storing and shifting binary data, visit the following link: 
+## [Registers](https://iamradhakulkarni.blogspot.com/2023/12/diving-into-sequential-circuits-part-4.html)
